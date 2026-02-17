@@ -1,4 +1,4 @@
-### dns.geohide.ru: hosts file
+### dns.geohide.ru: hosts file 
 # Последнее обновление: 11 января 2026
 # Домены взяты из этих источников:
 # https://dns.geohide.ru:8443
