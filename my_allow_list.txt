@@ -21,6 +21,9 @@
 @@||linkedin.com^$important
 @@||licdn.com^$important
 
+### Pinterest ###
+@@||pinterest.com
+
 ### Proton ###
 @@||protonvpn.com^$important
 @@||vpn-api.proton.me^$important
