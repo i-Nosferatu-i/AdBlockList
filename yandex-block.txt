@@ -1,4 +1,24 @@
-#🔴 CORE / ZONES (RU / BY / KZ / EU / ASIA)
+
+### Telemetry ru ###
+||tgstat.com^$important
+||*.tgstat.com^$important
+||tgstat.ru^$important
+||*.tgstat.ru^$important
+
+### Telemetry Tailscale ###
+||log.tailscale.io^$important
+||log.tailscale.com^$important
+
+### Tuya ###
+||wework-15-eu.stream.iot-11.com^$important
+||wework-18-eu.stream.iot-11.com^$important
+||wework-23-eu.stream.iot-11.com^$important
+
+### Viber ad ###
+||vb.me^$important
+
+### Yandex ###
+# CORE / ZONES (RU / BY / KZ / EU / ASIA)
 ||yandex.ru^
 ||yandex.by^
 ||yandex.kz^
@@ -8,7 +28,6 @@
 ||yandex.org^
 ||ya.ru^
 ||ya.cc^
-
 ||yandex.az^
 ||yandex.am^
 ||yandex.ee^
@@ -22,14 +41,12 @@
 ||yandex.uz^
 ||yandex.com.tr^
 ||yandex.co.il^
-
-#🔴 STATIC / CDN / MEDIA
+# STATIC / CDN / MEDIA
 ||yastatic.net^
 ||yastat.net^
 ||yandexcdn.net^
 ||yandexcloud.net^
 ||yandex.cloud^
-
 ||clstorage.net^
 ||storage.yandexcloud.net^
 ||s3.yandex.net^
@@ -38,108 +55,81 @@
 ||resize.yandex.net^
 ||img.yandex.net^
 ||imgsmail.ru^
-
-#🔴 ADS / METRICA / TRACKING
+# ADS / METRICA / TRACKING
 ||yandexmetrica.com^
 ||mc.yandex.ru^
 ||mc.yandex.by^
 ||mc.yandex.kz^
-
 ||adfox.ru^
 ||adfox.yandex.ru^
 ||adfox.yandex.net^
-
 ||yandexadexchange.net^
 ||admetrica.ru^
-
 ||webvisor.com^
 ||webvisor.org^
 ||extmaps-api.yandex.net^
-
-#🔴 SEARCH / API / INTERNAL
+# SEARCH / API / INTERNAL
 ||suggest.yandex.ru^
 ||suggest.yandex.net^
 ||api.browser.yandex.ru^
 ||api.browser.yandex.net^
-
 ||passport.yandex.ru^
 ||passport.yandex.net^
-
 ||oauth.yandex.ru^
 ||oauth.yandex.net^
-
 ||push.yandex.ru^
 ||push.yandex.net^
-
 ||api.search.yandex.ru^
 ||api.search.yandex.net^
-
 ||collections.yandex.ru^
 ||zen.yandex.ru^
 ||dzen.ru^
-
-#🔴 MAPS / GEO / NAVIGATION
+# MAPS / GEO / NAVIGATION
 ||maps.yandex.ru^
 ||api-maps.yandex.ru^
 ||static-maps.yandex.ru^
-
 ||route.yandex.ru^
 ||navigator.yandex.ru^
-
 ||traffic.yandex.ru^
 ||geocode-maps.yandex.ru^
 ||locator.api.yandex.ru^
-
-#🔴 MAIL / DISK / CLOUD USER SERVICES
+# MAIL / DISK / CLOUD USER SERVICES
 ||mail.yandex.ru^
 ||mail.yandex.net^
-
 ||disk.yandex.ru^
 ||disk.yandex.net^
-
 ||cloud-api.yandex.net^
 ||cloud-api.yandex.ru^
-
 ||sync.yandex.ru^
 ||sync.yandex.net^
-
 ||caldav.yandex.ru^
 ||carddav.yandex.ru^
-
-#🔴 MEDIA / CONTENT / SMART
+# MEDIA / CONTENT / SMART
 ||kinopoisk.ru^
 ||kinopoisk-ru.clstorage.net^
-
 ||music.yandex.ru^
 ||radio.yandex.ru^
-
 ||tv.yandex.ru^
 ||efir.yandex.ru^
-
 ||video.yandex.ru^
 ||streaming.yandex.ru^
-
-#🔴 DEV / TELEMETRY / EXPERIMENTS
+# DEV / TELEMETRY / EXPERIMENTS
 ||log.yandex.ru^
 ||log.yandex.net^
-
 ||crash.yandex.ru^
 ||crash.yandex.net^
-
 ||telemetry.yandex.ru^
 ||telemetry.yandex.net^
-
 ||experiments.yandex.ru^
 ||ab.yandex.ru^
-
-#🔴 BUSINESS / SERVICES
+# BUSINESS / SERVICES
 ||auto.ru^
 ||realty.yandex.ru^
 ||market.yandex.ru^
 ||eda.yandex.ru^
-
 ||taxi.yandex.ru^
 ||lavka.yandex.ru^
-
 ||plus.yandex.ru^
 ||plus.yandex.net^
+
+||kinopoiskapiunofficial.tech^
