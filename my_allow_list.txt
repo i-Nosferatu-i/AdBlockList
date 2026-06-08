@@ -22,8 +22,9 @@
 @@||licdn.com^$important
 
 ### Pinterest ###
-@@||pinterest.com^$important
-@@||www.pinterest.com^$important
+#@@||pinterest.com^$important
+#@@||www.pinterest.com^$important
+||pinterest.com^$dnsrewrite=95.217.163.17
 
 ### Proton ###
 @@||protonvpn.com^$important
