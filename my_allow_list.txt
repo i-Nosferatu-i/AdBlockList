@@ -17,7 +17,7 @@
 # Do53	95.217.163.17
 # 2a01:4f9:c013:dc4e::1
 
-8.8.8.8 www.linkedin.com
+||www.linkedin.com^$dnsrewrite=8.8.8.8
 
 ### Proton ###
 @@||protonvpn.com^$important
