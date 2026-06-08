@@ -22,7 +22,8 @@
 @@||licdn.com^$important
 
 ### Pinterest ###
-@@||pinterest.com
+@@||pinterest.com^$important
+@@||www.pinterest.com^$important
 
 ### Proton ###
 @@||protonvpn.com^$important
