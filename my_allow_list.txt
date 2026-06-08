@@ -18,7 +18,8 @@
 # 2a01:4f9:c013:dc4e::1
 
 ### LinkedIn ###
-||www.linkedin.com^$dnsrewrite=8.8.8.8
+@@||linkedin.com^$important
+@@||licdn.com^$important
 
 ### Proton ###
 @@||protonvpn.com^$important
