@@ -1,3 +1,11 @@
+### Max ###
+||max.ru^
+||*.max.ru^
+||web.max.ru^
+||business.max.ru^
+||dev.max.ru^
+||max.mycdn.me^
+||*.max.mycdn.me^
 
 ### Telemetry ru ###
 ||tgstat.com^$important
