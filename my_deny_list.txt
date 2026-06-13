@@ -18,6 +18,9 @@
 ||log.tailscale.com^$important
 
 ### Tuya ###
+||adt.tuya.com
+||ad.tuya.com
+||metrics.tuya.com
 ||wework-15-eu.stream.iot-11.com^$important
 ||wework-18-eu.stream.iot-11.com^$important
 ||wework-23-eu.stream.iot-11.com^$important
