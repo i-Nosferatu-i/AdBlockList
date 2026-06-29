@@ -26,6 +26,15 @@
 #@@||www.pinterest.com^$important
 @@||pinterest.com^$dnsrewrite=95.217.163.17
 
+### Prior ###
+@@||priorbank.by
+@@||prior.by
+@@||ibank.priorbank.by
+@@||im.priorbank.by
+@@||priorpremium.by
+@@||clientbank.by
+@@||www.3ds.priorbank.by
+
 ### Proton ###
 @@||protonvpn.com^$important
 @@||vpn-api.proton.me^$important
