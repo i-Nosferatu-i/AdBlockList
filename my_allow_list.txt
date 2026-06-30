@@ -64,6 +64,9 @@
 ### Other ###
 @@||zonafilm.ru
 @@||api.zombie-film.live
+@@||fasttorents.net
+@@||tragtorr.in
+@@||jr.maxvol.pro
 
 
 #192.168.13.10 budzma.org
