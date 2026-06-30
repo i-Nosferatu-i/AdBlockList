@@ -22,9 +22,8 @@
 @@||licdn.com^$important
 
 ### Pinterest ###
-#@@||pinterest.com^$important
-#@@||www.pinterest.com^$important
-@@||pinterest.com^$dnsrewrite=95.217.163.17
+@@||pinterest.com^$important
+@@||www.pinterest.com^$important
 
 ### Prior ###
 @@||priorbank.by
@@ -61,6 +60,11 @@
 
 @@||p.controld.com^$important
 #@@||*.controld.com^$important
+
+### Other ###
+@@||zonafilm.ru
+@@||api.zombie-film.live
+
 
 #192.168.13.10 budzma.org
 ||budzma.org^$dnsrewrite=NOERROR;A;192.168.13.10
