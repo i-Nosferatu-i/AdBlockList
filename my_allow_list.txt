@@ -62,11 +62,16 @@
 #@@||*.controld.com^$important
 
 ### Other ###
+--- LazyMediaDeluxe ---
 @@||zonafilm.ru
 @@||api.zombie-film.live
 @@||fasttorents.net
 @@||tragtorr.in
 @@||jr.maxvol.pro
+----- NUM -----
+@@||tmdb.torrs.ru
+@@||torrs.ru
+@@||jac.red
 
 
 #192.168.13.10 budzma.org
