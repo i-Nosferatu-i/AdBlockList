@@ -68,6 +68,9 @@
 @@||fasttorents.net
 @@||tragtorr.in
 @@||jr.maxvol.pro
+@@||api.myip.com
+@@||ip-api.com
+@@||api.ipify.org
 ----- NUM -----
 @@||tmdb.torrs.ru
 @@||torrs.ru
